@@ -1,0 +1,69 @@
+<!--
+  Project: CI/CD Demonstration
+  Student Name: Amir Sufian Radwan
+  Student ID: 1949011018
+  Course: Cloud Computing
+  Supervisor: Dr. Faten Abu Shamaleh
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CI/CD Project Showcase</title>
+    
+    <!-- A different file name for CSS -->
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+    <div class="main-container">
+        
+        <header class="page-header">
+            <h1>My Project on CI/CD Automation</h1>
+            <p>A practical implementation for the Cloud Computing course.</p>
+        </header>
+
+        <main class="content-area">
+
+            <article class="card">
+                <h2>My Understanding of CI/CD</h2>
+                <p>
+                    From what I've learned, <strong>Continuous Integration (CI)</strong> is a practice that prevents the chaos of developers working in isolation for too long. It encourages us to merge our code into a central place several times a day. As soon as a merge happens, a script runs to build the project and test it. This has been a lifesaver for finding issues before they become big problems.
+                </p>
+                <p>
+                    <strong>Continuous Deployment (CD)</strong> is the next logical step. It's about automatically releasing the code to the world once it's been proven to work through testing. This creates a smooth, fast flow from writing a line of code to seeing it in action.
+                </p>
+            </article>
+
+            <article class="card">
+                <h2>My Project's Automation Workflow</h2>
+                <p>
+                    I created my own simple pipeline for this site with GitHub Actions. Basically, any time I commit and <code>push</code> a change to my main repository branch, it triggers an automated job. This job handles the deployment process for me, making my site live on GitHub Pages without any manual work.
+                </p>
+            </article>
+
+            <section class="interactive-demo">
+                <h3>A Quick Test</h3>
+                <p>Click the button below to see a JavaScript message.</p>
+                <button id="test-btn">Click Me!</button>
+                <p id="message-display" class="feedback"></p>
+            </section>
+
+        </main>
+
+        <footer class="page-footer">
+            <p><b> Prepared by the student:</b> Amir Sufyan Ismail Radwan</p>
+    <p><b> Academic ID Number:</b>  1949011018: </p>
+    <p><b> Supervised by Dr.</b>  Faten Abu Shamala</p>
+    <p><b> Subject:</b> Cloud computing</p>
+
+        </footer>
+
+    </div>
+
+    <!-- Linking to the script file at the end -->
+    <script src="assets/main.js"></script>
+
+</body>
+</html>
