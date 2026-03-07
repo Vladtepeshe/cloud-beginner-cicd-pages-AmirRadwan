@@ -4,7 +4,7 @@
 
 ## رابط الموقع المباشر
 
-- **رابط صفحات GitHub:** https://vladtepeshe.github.io/cloud-beginner-cicd-pages-Amir-Radwan/
+- **رابط صفحات https://vladtepeshe.github.io/cloud-beginner-cicd-pages-AmirRadwan/
 ## كيفية تشغيل الموقع محلياً
 
 1.  قم بتنزيل الملفات (`index.html`, `style.css`, `script.js`).
