@@ -1,11 +1,10 @@
-# مشروع CI/CD للمبتدئين باستخدام GitHub Actions
+# مشروع CI/CD باستخدام GitHub Actions
 
 هذا المشروع هو تطبيق عملي لمفاهيم التكامل والنشر المستمر (CI/CD) باستخدام GitHub Actions و GitHub Pages.
 
 ## رابط الموقع المباشر
+https://github.com/Vladtepeshe/cloud-beginner-cicd-pages-AmirRadwan/tree/main
 
-- **رابط صفحات https://vladtepeshe.github.io/cloud-beginner-cicd-pages-AmirRadwan/
-## كيفية تشغيل الموقع محلياً
+- **رابط صفحات
+-  https://vladtepeshe.github.io/cloud-beginner-cicd-pages-AmirRadwan/
 
-1.  قم بتنزيل الملفات (`index.html`, `style.css`, `script.js`).
-2.  افتح ملف `index.html` في أي متصفح ويب.
